@@ -1,0 +1,5 @@
+
+**/processed/
+dump/
+logs/
+__pycache__/
